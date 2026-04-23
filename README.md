@@ -1,4 +1,4 @@
-# IoT-Based-Smart-Lighting-System
+# IoT Based Smart Lighting System Project
 
 Smart Automatic Lamp is a simple yet structured IoT-based project designed to control lighting automatically based on environmental light intensity.
 
